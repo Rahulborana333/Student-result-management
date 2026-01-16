@@ -120,5 +120,3 @@ def main():
             print("invalid choice")
 main()
 
-
-
